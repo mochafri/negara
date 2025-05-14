@@ -1,0 +1,77 @@
+[
+  {
+    "namaNegara": "Indonesia",
+    "benua": "Asia",
+    "imageId": "IDN"
+  },
+  {
+    "namaNegara": "Brasil",
+    "benua": "Amerika Selatan",
+    "imageId": "BRA"
+  },
+  {
+    "namaNegara": "Jerman",
+    "benua": "Eropa",
+    "imageId": "DEU"
+  },
+  {
+    "namaNegara": "Nigeria",
+    "benua": "Afrika",
+    "imageId": "NGA"
+  },
+  {
+    "namaNegara": "Australia",
+    "benua": "Oseania",
+    "imageId": "AUS"
+  },
+  {
+    "namaNegara": "Kanada",
+    "benua": "Amerika Utara",
+    "imageId": "CAN"
+  },
+  {
+    "namaNegara": "Jepang",
+    "benua": "Asia",
+    "imageId": "JPN"
+  },
+  {
+    "namaNegara": "Prancis",
+    "benua": "Eropa",
+    "imageId": "FRA"
+  },
+  {
+    "namaNegara": "Argentina",
+    "benua": "Amerika Selatan",
+    "imageId": "ARG"
+  },
+  {
+    "namaNegara": "Mesir",
+    "benua": "Afrika",
+    "imageId": "EGY"
+  },
+  {
+    "namaNegara": "Selandia Baru",
+    "benua": "Oseania",
+    "imageId": "NZL"
+  },
+  {
+    "namaNegara": "Meksiko",
+    "benua": "Amerika Utara",
+    "imageId": "MEX"
+  },
+  {
+    "namaNegara": "India",
+    "benua": "Asia",
+    "imageId": "IND"
+  },
+  {
+    "namaNegara": "Italia",
+    "benua": "Eropa",
+    "imageId": "ITA"
+  },
+  {
+    "namaNegara": "Afrika Selatan",
+    "benua": "Afrika",
+    "imageId": "ZAF"
+  }
+]
