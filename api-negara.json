@@ -1,5 +1,10 @@
 [
   {
+    "namaNegara": "Indonesia",
+    "benua": "Asia",
+    "imageId": "IND"
+  },
+  {
     "namaNegara": "Brasil",
     "benua": "Amerika Selatan",
     "imageId": "BRA"
